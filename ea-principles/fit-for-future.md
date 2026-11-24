@@ -1,12 +1,14 @@
-### Description
+# Fit for the Future
+
+## Description
 
 We will design services that are flexible, extensible and sustainable in terms of technological longevity, support costs, environmental impact and continuing business relevance.
 
-### Rationale
+## Rationale
 
 Digital services must support the long-term objectives of the enterprise and remain effective over time.
 
-### Implications
+## Implications
 
 - Adopt sustainable technology practices.
 - Prefer suppliers that are carbon neutral or working towards carbon neutrality.
